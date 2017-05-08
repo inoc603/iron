@@ -11,5 +11,5 @@ go get -u github.com/inoc603/iron
 ## Usage
 
 ```
-flat := iron.Flatter(obj)
+flat := iron.Flatten(obj)
 ```
